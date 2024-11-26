@@ -1,4 +1,4 @@
-# yfinance-
+# **Using financial data from Yahoo Finance by Ania Supady**
 
 link to Colab: https://github.com/AniaSupady/yfinance-/blob/main/yfinance_USD2PL.ipynb
 
